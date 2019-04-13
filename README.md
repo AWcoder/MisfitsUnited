@@ -94,7 +94,7 @@ Additionally $200 (50%) will be rolled over each year into a side pot ("The Empi
 
 <br><br>
 ## __Section IV - Empire League Rules__ ##
-This is an Empire format dyanasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
+This is an Empire format dynasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
 
 ## __Section IV - Rosters__ ##
 
@@ -106,8 +106,8 @@ This is an Empire format dyanasty league. This means that the league will disban
    WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
-   BE | 16 | No Limit
-   IR | 2 | No Limit
+   BE | 16 | N/A
+   IR | 2 | N/A
 
 <br><br>
 
