@@ -3,10 +3,11 @@
 
 - [League Governence](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
-   - [Co-Commissioners](#co-commissioners)
+   - [Backup-Commissioner](#backup-commissioner)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
+- [Empire League Rules](#Section-IV---Empire-League-Rules)
 - [Rosters](#section-iv---rosters)
 - [Free Agency & Trading](#section-v---free-agency--trading)
   - [Free Agency](#free-agency)
@@ -26,18 +27,18 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-_-Austin Woetzel
+__Austin Woetzel__
 > (763) 843-3237
 
 > awwoetzel@gmail.com
 
 <br>
 
-### Co-Commissioners ###
-__Odell Beckham Jr.__
-> (877) 393-4448
+### Backup-Commissioner ###
+__TBD__
+> 
 
-> OBJesus@onehandcatches.com 
+> 
 
 <br>
 
@@ -51,17 +52,17 @@ __Saquan Barkley__
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
 <br>
-### Co-Commissioner Site Powers ###
-The Co-Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the co-commissioners can attend to any urgent needs from league members.
+### Backup Commissioner Site Powers ###
+The Backup Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the backup commissioners can attend to any urgent needs from league members.
 <br>
-### Co-Commissioner Appointment ###
-The Commissioner can nominate up to two Co-Commissioners who will then require a majority vote by the rest of the league to be appointed.
+### Backup Commissioner Appointment ###
+The Commissioner can nominate a Backup Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie the commissioner will always have the tiebreaking vote. When an issue arrises where a clear conflict of interest is apparant the matter will be handled by the co-commissioners. If they disagree on what action should be taken the matter will be put to a league vote (the vote will exclude anyone with a conflict of interest).
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
 <br>
 ### Rule Changes ###
-In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a 2/3 majority to pass without commissioner consent.
+In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a at least 2/3 majority to pass without commissioner consent.
 <br>
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
@@ -71,12 +72,12 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ## __Section II - League Dues__ ##
 
 ### Entry Fee ###
-- The Entry Fee for the league is $50 per team.
+- The Entry Fee for the league is $40 per team.
 - Must be paid at minimum 2 weeks before the draft (startup or rookie).
 
 ### Yearly Dues ###
 
-- After the first year there is a yearly total of $50 that must be paid 2 weeks before the start of the yearly rookie draft.
+- After the first year there is a yearly total of $40 that must be paid 2 weeks before the start of the yearly rookie draft.
 - Dues must also be paid for any year a team trades draft picks in.
 
 ### Penalties ###
@@ -85,13 +86,15 @@ If a team does not pay their dues by the designated date they are not eligible t
 <br><br>
 
 ## __Section III - Payout__ ##
-- 1st Place: $450 (75%)
-- 2nd Place: $75 (12.5%)
-- 3rd Place: $50 (8.34%)
+- 1st Place: $150 (37.5%)
+- 2nd Place: $50 (12.5%)
 
-Additionally $25 (4.16%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+
+Additionally $200 (50%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
 
 <br><br>
+## __Section IV - Empire League Rules__ ##
+Test
 
 ## __Section IV - Rosters__ ##
 
