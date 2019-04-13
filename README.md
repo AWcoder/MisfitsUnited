@@ -90,26 +90,24 @@ If a team does not pay their dues by the designated date they are not eligible t
 - 2nd Place: $50 (12.5%)
 
 
-Additionally $200 (50%) will be rolled over each year into a side pot that will be awarded to the first team to win back to back championships.
+Additionally $200 (50%) will be rolled over each year into a side pot ("The Empire Pot") that will be awarded to the first team to win back to back championships.
 
 <br><br>
 ## __Section IV - Empire League Rules__ ##
-Test
+This is an Empire format dyanasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
 
 ## __Section IV - Rosters__ ##
 
 
    Position | Starters | Maximum
    -------- |--------- | -------
-   QB | 1 | No Limit
+   QB | 2 | No Limit
    RB | 2 | No Limit
-   WR | 3 | No Limit
+   WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
-   D/ST | 1 | No Limit
-   K | 1 | No Limit
    BE | 16 | No Limit
-   IR | 3 | No Limit
+   IR | 2 | No Limit
 
 <br><br>
 
