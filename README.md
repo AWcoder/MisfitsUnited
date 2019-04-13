@@ -164,20 +164,22 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 12.
+- The regular season lasts from week 1 to week 13.
 - Teams will play their first and last two matches against the other teams in their division.
-- Teams will play each other team in the league once (9 games) and 3 teams in their division twice (3 games)
+- Teams will play each other team in the league once (9 games) and teams in their division twice (4 games)
 - The rest of the matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 15.
+- Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
 
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds and recieve a first round bye. Tiebreaker is total points scored throughout the regular season. 
-- The next two teams will be assigned their playoff seeding spot based on regular season record with a tiebreaker of total points scored. Seed #1 will face seed #4. Seed #2 will face seed #3.
-- The higher seed in each matchup will 
+- Playoff seeding is determined by regular season record with a tiebreaker being total points scored throughout the regular season.
+- The two teams with the top seeds will recieve a first round bye. 
+- The first round will be #3 seed vs #6 seed and the #4 seed vs #5 seed.
+- The second round will be the #1 seed vs the lowest remaining seed and the #2 seed vs the higher remaining seed.
+- The lower seed in each playoff matchup will recieve 2 additional points in their matchup.
 
 ### Consolation Bracket ###
 - There is no consolation bracket and no incentive for winning or losing games once eliminated from the championship hunt.
