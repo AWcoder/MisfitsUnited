@@ -140,8 +140,9 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-8 will be assigned in inverse order of the regular season standings. Standings determined by regular season record with a tiebreaker of total points scored. 3rd place game in the postseason is meaningless for determining draft order because there is no payout.
-- Picks 9-10 will be assigned in inverse order of the postseason standings
+- Picks 1-8 will be assigned in inverse order of the regular season standings. Standings determined by regular season record with a tiebreaker of total points scored. The postseason results are meaningless for determining draft order other than the championship game.
+- Pick 9 will be assigned to the loser of the championship game
+- Pick 10 is assigned to the champion of the season.
 
 
 ### Rookie Draft Settings ###
@@ -176,13 +177,13 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Championship Bracket ###
 - Playoff seeding is determined by regular season record with a tiebreaker being total points scored throughout the regular season.
-- The two teams with the top seeds will recieve a first round bye. 
+- The top two seeds will recieve a first round bye. 
 - The first round will be #3 seed vs #6 seed and the #4 seed vs #5 seed.
-- The second round will be the #1 seed vs the lowest remaining seed and the #2 seed vs the higher remaining seed.
-- The lower seed in each playoff matchup will recieve 2 additional points in their matchup.
+- The second round will be the #1 seed vs the worst remaning seed and the #2 seed vs the best remaining seed.
+- The top seed in each playoff matchup will recieve 2 additional points.
 
 ### Consolation Bracket ###
-- There is no consolation bracket and no incentive for winning or losing games once eliminated from the championship hunt.
+- There is no consolation bracket and no incentive for winning games once eliminated from the championship hunt.
 
 <br><br>
 
