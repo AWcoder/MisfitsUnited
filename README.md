@@ -96,6 +96,9 @@ Additionally $200 (50%) will be rolled over each year into a side pot ("The Empi
 ## __Section IV - Empire League Rules__ ##
 This is an Empire format dynasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
 
+The winner of a championship will be referred to as the Emperor for the entire next season. To prevent collusion with the Emperor (working together to split the empire pot), the Emperor will be limited in the type of trades they can make during the season (see trades section below).
+
+<br><br>
 ## __Section IV - Rosters__ ##
 
 
@@ -115,20 +118,22 @@ This is an Empire format dynasty league. This means that the league will disband
 
 ### Free Agency ###
 
-- Each team will receive $100 for a Free Agency Aquisition Budget
-- Minimum bid to get a FA off waivers is $1
+- Each team will receive $400 for a Free Agency Aquisition Budget (FAAB)
+- Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
-- FAAB dollars are not tradeable
+- FAAB dollars can be used as a part of a trade. 
 - There is a two Day waiting period for waivers to clear
 - Free agency locks a week after the championship ends.
 
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
-- During the offseason trading is still allowed.
-- Trade deadline begins as soon as the first playoff game starts.
-- Draft picks up to 3 years in the future are tradable.
-- Teams must pay dues for any year they trade draft picks in.
+- During the offseason trading is still allowed. Offseason begins immediately following the championship week.
+- Trade deadline is one week before the playoffs begin (Sunday @ 12:00 CT).
+- Draft picks up to 2 years in the future are tradable.
+- Future season FAAB cannot be traded 
+- The Emperor (winner of the previous season) is only allowed to make trades that involve receiving future season draft picks in exchange for rostered players, current season draft picks, and FAAB. The Emperor is not allowed to aquire any players or FAAB via trade. The Emperor still has rights to any current season draft picks (or conditional draft picks) they aquired before becoming the Emperor. 
+Example for clarification: If the Emperor wins the championship in the 2018 season, they are not allowed to aquire any 2019 picks, players, or 2019 FAAB via trade during the 2019 season. If the Emperor aquired any 2019 picks via trade during 2018 season, they retain rights to those picks. The 2018 season ends and the 2019 season begins the moment the Emperor wins the 2018 championship.
 
 <br><br>
 
