@@ -1,7 +1,7 @@
 # Misfits United Empire League Constitution #
 ## Table of Contents
 
-- [League Governence](#section-i---league-governence)
+- [League Governance](#section-i---league-governence)
    - [Commissioner](#league-commissioner)
    - [Backup-Commissioner](#backup-commissioner)
    - [Commissioner Powers and Arbitration Process](#commissioner-site-powers)
@@ -39,13 +39,6 @@ __TBD__
 > 
 
 > 
-
-<br>
-
-__Saquan Barkley__
-> (800) 605-3369
-
-> TheQuadfather@demthighs.com
 
 <br>
 
@@ -118,16 +111,17 @@ The winner of a championship will be referred to as the Emperor for the entire n
 
 ### Free Agency ###
 
-- Each team will receive $400 for a Free Agency Aquisition Budget (FAAB)
+- Each team will receive $400 for a Free Agency Aquisition Budget (FAAB) for each season.
 - Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
-- FAAB dollars can be used as a part of a trade. 
-- There is a two Day waiting period for waivers to clear
-- Free agency locks a week after the championship ends.
+- FAAB dollars can be used as a part of a trade.
+- Waviers are continuous and will be processed Wednesday through Sunday at 11:00 AM each day.
+- Offseason waviers for free agents will be processed every day at 11:00 AM.
 
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
+- Any trades involving draft picks must be reported to the commissioner.
 - During the offseason trading is still allowed. Offseason begins immediately following the championship week.
 - Trade deadline is one week before the playoffs begin (Sunday @ 12:00 CT).
 - Draft picks up to 2 years in the future are tradable.
@@ -138,11 +132,7 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 <br><br>
 
 ## __Section VI - Startup Draft__ ##
-- Will take place (Insert Date Here) on (Insert Platform Here).
-- Snake format (1st to 12th then 12th to 1st).
-- Each day the draft will last from 9AM to 9PM with each team having 1 hour per pick.
-- Trading draft picks is allowed during the startup draft.
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/dynasty-overall.php) will be taken for them.
+- Aucton format ($400 budget).
 
 <br><br>
 
@@ -150,19 +140,18 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-6 will be assigned in inverse order of the regular season standings.
-- Picks 7-12 will be assigned in inverse order of the postseason standings
-- An additional pick (1.13) will be awarded to the winner of the consolation bracket
+- Picks 1-8 will be assigned in inverse order of the regular season standings. Standings determined by regular season record with a tiebreaker of total points scored. 3rd place game in the postseason is meaningless for determining draft order because there is no payout.
+- Picks 9-10 will be assigned in inverse order of the postseason standings
+
 
 ### Rookie Draft Settings ###
-- There will be 4 rounds of the rookie draft.
-- The rookie draft will take place the day immediately following the completion of the NFL draft.
+- There will be 5 rounds of the rookie draft.
+- The rookie draft will take place following the completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
-- Each day the draft will last from 9AM to 9PM with each team having 30 mins per pick.
 - Trading draft picks is allowed during the rookie draft
-- If a team misses their pick the best available player based on [these rankings](https://www.fantasypros.com/nfl/rankings/rookies.php) will be taken for them
+- Draft format is pending league discussion.
 
-__Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner or co-commissioners to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
+__Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
 <br><br>
 
@@ -170,29 +159,28 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Divisions ###
 
-- There will be four divisions that teams will be randomly assigned to upon joining the league.
-- Divisions will follow NFL division naming (North, South, East, West)
-- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to a virtual badge and bragging rights
+- There will be two divisions that teams will be randomly assigned to upon joining the league.
+- Divisions will not have any bearing on playoffs and winning a division only entitles the winner to bragging rights
+
 
 ### Regular Season Schedule ###
-- The regular season lasts from week 1 to week 13.
+- The regular season lasts from week 1 to week 12.
 - Teams will play their first and last two matches against the other teams in their division.
+- Teams will play each other team in the league once (9 games) and 3 teams in their division twice (3 games)
 - The rest of the matches will be randomly determined at the beginning of the season.
-- Playoffs begin week 14 with the championship game occuring week 16.
+- Playoffs begin week 14 with the championship game occuring week 15.
 
 <br><br>
 
 ## __Section IX - Playoffs__ ##
 
 ### Championship Bracket ###
-- The two teams with the best regular season records will be assigned to the top two seeds.
-- The next three teams will be assigned their playoff seeding spot based on regular season record.
-- The final playoff spot will be awarded to the team with the highest points scored out of the remaining teams.
+- The two teams with the best regular season records will be assigned to the top two seeds and recieve a first round bye. Tiebreaker is total points scored throughout the regular season. 
+- The next two teams will be assigned their playoff seeding spot based on regular season record with a tiebreaker of total points scored. Seed #1 will face seed #4. Seed #2 will face seed #3.
+- The higher seed in each matchup will 
 
 ### Consolation Bracket ###
-- Seeding will be determined by end of regular season standing for the 6 teams not in the Championship Bracket.
-- The winner of the consolation ladder will be awarded an extra pick at the end of the first round (1.13).
-- The consolation bracket has no bearing on draft order.
+- There is no consolation bracket and no incentive for winning or losing games once eliminated from the championship hunt.
 
 <br><br>
 
