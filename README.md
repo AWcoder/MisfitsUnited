@@ -1,4 +1,4 @@
-# (League Name Here) Dynasty League Constitution #
+# Misfits United Empire League Constitution #
 ## Table of Contents
 
 - [League Governence](#section-i---league-governence)
@@ -26,10 +26,10 @@
 ## __Section I - League Governence__ ##
 
 ### League Commissioner ###
-__Eli Manning__
-> (800) 588-2300
+_-Austin Woetzel
+> (763) 843-3237
 
-> 3LI@ManningFace.com
+> awwoetzel@gmail.com
 
 <br>
 
