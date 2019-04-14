@@ -55,7 +55,7 @@ If the backup commissioner is replaced, the Commissioner can nominate a new back
 <br>
 
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. The comissioner gets a single vote in all league votes. In the event of a tie, the commissioner's vote will count as the tie breaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. The comissioner  may decide to handle an issue with a league vote. In the event of a tie, the commissioner's vote will count as the tie breaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
 <br>
 
 ### Rule Changes ###
