@@ -194,7 +194,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The top seed in each playoff matchup will recieve 2 additional points.
 
 ### Consolation Bracket ###
-- There is no consolation bracket and no incentive for winning or losing games once eliminated from championship contention. Any losses once eliminated from championship contention have no impact on draft position in the next season (see Section VIII Rookie Draft).
+There is no consolation bracket and no incentive for winning or losing games once eliminated from championship contention. Any losses once eliminated from championship contention have no impact on draft position in the next season (see Section VIII Rookie Draft).
 
 <br><br>
 
