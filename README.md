@@ -58,7 +58,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a at least 2/3 majority to pass without commissioner consent.
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams will be removed from the league and forfeit any dues paid**
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams may be removed from the league and forfeit any dues paid**
 
 <br><br>
 
@@ -72,6 +72,7 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 
 - After the first year there is a yearly total of $40 that must be paid 2 weeks before the start of the yearly rookie draft.
 - Dues must also be paid for any year a team trades draft picks in.
+- Dues will be collected via leagesafe.com
 
 ### Penalties ###
 If a team does not pay their dues by the designated date they are not eligible to participate in the draft (startup or rookie) it will be up to the commissioners discretion on whether or not to replace them.
@@ -84,6 +85,8 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 
 Additionally $200 (50%) will be rolled over each year into a side pot ("The Empire Pot") that will be awarded to the first team to win back to back championships.
+
+Payouts will occur using leaguesafe.com
 
 <br><br>
 ## __Section IV - Empire League Rules__ ##
@@ -121,13 +124,15 @@ The winner of a championship will be referred to as the Emperor for the entire n
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
-- Any trades involving draft picks must be reported to the commissioner.
+- Any trades involving draft picks must be reported to the commissioner immediately.
 - During the offseason trading is still allowed. Offseason begins immediately following the championship week.
 - Trade deadline is one week before the playoffs begin (Sunday @ 12:00 CT).
 - Draft picks up to 2 years in the future are tradable.
 - Future season FAAB cannot be traded 
+- "Rental" trades are not allowed. Players cannot be traded on a temporary basis before being returned to the original owner.
 - The Emperor (winner of the previous season) is only allowed to make trades that involve receiving future season draft picks in exchange for rostered players, current season draft picks, and FAAB. The Emperor is not allowed to aquire any players or FAAB via trade. The Emperor still has rights to any current season draft picks (or conditional draft picks) they aquired before becoming the Emperor. 
 Example for clarification: If the Emperor wins the championship in the 2018 season, they are not allowed to aquire any 2019 picks, players, or 2019 FAAB via trade during the 2019 season. If the Emperor aquired any 2019 picks via trade during 2018 season, they retain rights to those picks. The 2018 season ends and the 2019 season begins the moment the Emperor wins the 2018 championship.
+- One-sided trades in an attempt to stop the Emperor from a repeat victory will not be tolerated. This is considered a form of collusion.
 
 <br><br>
 
@@ -140,7 +145,9 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
-- Picks 1-8 will be assigned in inverse order of the regular season standings. Standings determined by regular season record with a tiebreaker of total points scored. The postseason results are meaningless for determining draft order other than the championship game.
+- Picks 1-4 will be assigned in inverse order of the regular season standings to the non-playoff teams. Standings determined by regular season record with a tiebreaker of total points scored. 
+- Picks 5 and 6 will be assigned to the 2 teams eliminated in the first round of the playoffs in inverse order of the regular season standings with a tiebreaker of total points scored.
+- Picks 7 and 8 will be assigned to the 2 teams eliminated in the second round of the playoffs in inverse order of the regular season standings with a  tiebreaker of total points scored.
 - Pick 9 will be assigned to the loser of the championship game
 - Pick 10 is assigned to the champion of the season.
 
