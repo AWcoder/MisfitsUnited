@@ -35,8 +35,8 @@ __Austin Woetzel__
 <br>
 
 ### Backup-Commissioner ###
-__TBD__
-> 
+__Dan Wanous__
+> (league founder)
 
 > 
 
@@ -44,12 +44,14 @@ __TBD__
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
+
+The comissioner gets a single vote in all league votes. In the event of a tie, the commissioner's vote will count as the tie breaking vote.
 <br>
 ### Backup Commissioner Site Powers ###
 The Backup Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the backup commissioners can attend to any urgent needs from league members.
 <br>
 ### Backup Commissioner Appointment ###
-The Commissioner can nominate a Backup Commissioners who will then require a majority vote by the rest of the league to be appointed.
+If the backup commissioner is replaced, the Commissioner can nominate a new backup Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration ###
 The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
@@ -58,7 +60,7 @@ The commissioner is the final authority on all league matters, excluding dispute
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a at least 2/3 majority to pass without commissioner consent.
 <br>
 ### Collusion ###
-**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams may be removed from the league and forfeit any dues paid**
+**Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams may penalized draft picks or be removed from the league and forfeit any dues paid. Punishment will be determined by the commissioner and require majority vote by non-involved parties to be enforced.**
 
 <br><br>
 
@@ -83,7 +85,7 @@ If a team does not pay their dues by the designated date they are not eligible t
 - 2nd Place: $50 (12.5%)
 
 
-Additionally $200 (50%) will be rolled over each year into a side pot ("The Empire Pot") that will be awarded to the first team to win back to back championships.
+Additionally, $200 (50%) will be rolled over each year into a side pot ("The Empire Pot") that will be awarded to the first team to win back to back championships.
 
 Payouts will occur using leaguesafe.com
 
@@ -146,7 +148,7 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 - The draft order for the rookie draft will be determined based on both regular and post-season results
 - Picks 1-4 will be assigned in inverse order of the regular season standings to the non-playoff teams. Standings determined by regular season record with a tiebreaker of total points scored. 
 - Picks 5 and 6 will be assigned to the 2 teams eliminated in the first round of the playoffs in inverse order of the regular season standings with a tiebreaker of total points scored.
-- Picks 7 and 8 will be assigned to the 2 teams eliminated in the second round of the playoffs in inverse order of the regular season standings with a  tiebreaker of total points scored.
+- Picks 7 and 8 will be assigned to the 2 teams eliminated in the second round of the playoffs in inverse order of the regular season standings with a tiebreaker of total points scored.
 - Pick 9 will be assigned to the loser of the championship game
 - Pick 10 is assigned to the champion of the season.
 
@@ -156,7 +158,7 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 - The rookie draft will take place following the completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
-- Draft format is pending league discussion.
+- Draft format is pending league discussion in 2019 offseason.
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
