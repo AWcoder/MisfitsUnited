@@ -71,7 +71,6 @@ In order to change an existing rule, add a new rule, or change a scoring setting
 ### Yearly Dues ###
 
 - After the first year there is a yearly total of $40 that must be paid 2 weeks before the start of the yearly rookie draft.
-- Dues must also be paid for any year a team trades draft picks in.
 - Dues will be collected via leagesafe.com
 
 ### Penalties ###
@@ -173,9 +172,8 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 ### Regular Season Schedule ###
 - The regular season lasts from week 1 to week 13.
-- Teams will play their first and last two matches against the other teams in their division.
 - Teams will play each other team in the league once (9 games) and teams in their division twice (4 games)
-- The rest of the matches will be randomly determined at the beginning of the season.
+- regular season matches are randomly determined at the beginning of the season.
 - Playoffs begin week 14 with the championship game occuring week 16.
 
 <br><br>
