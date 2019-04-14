@@ -118,7 +118,7 @@ The winner of a championship will be referred to as the Emperor for the entire n
 - Minimum bid to get a FA off waivers is $0
 - Per transaction fee is $0
 - FAAB dollars can be used as a part of a trade.
-- Waviers are continuous and will be processed Wednesday through Sunday at 11:00 AM each day.
+- Waviers during the regular season are continuous and will be processed Mon, Wed, Thur, Fri, Sat, and Sun at 11:00 AM each day.
 - Offseason waviers for free agents will be processed every day at 11:00 AM.
 
 
