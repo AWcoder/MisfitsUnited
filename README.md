@@ -45,7 +45,6 @@ __Dan Wanous__
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
 
-The comissioner gets a single vote in all league votes. In the event of a tie, the commissioner's vote will count as the tie breaking vote.
 <br>
 ### Backup Commissioner Site Powers ###
 The Backup Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the backup commissioners can attend to any urgent needs from league members.
@@ -54,7 +53,7 @@ The Backup Commissioners will have all site powers the league commissioner has s
 If the backup commissioner is replaced, the Commissioner can nominate a new backup Commissioners who will then require a majority vote by the rest of the league to be appointed.
 <br>
 ### Dispute Arbitration ###
-The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. In situations where a league vote is put forth and the outcome is a tie, the commissioner will always have the tiebreaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
+The commissioner is the final authority on all league matters, excluding disputes with a clear conflict of interest. The comissioner gets a single vote in all league votes. In the event of a tie, the commissioner's vote will count as the tie breaking vote. When an issue arrises where the commissioner has a clear conflict of interest, the matter will be handled by the backup commissioner. If the dispute is between the Commissioner and the Backup Commissioner and both have conflicts of interests, the dispute will be put to a league vote with majority ruling.
 <br>
 ### Rule Changes ###
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a at least 2/3 majority to pass without commissioner consent.
