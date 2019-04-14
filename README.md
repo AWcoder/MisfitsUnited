@@ -51,7 +51,7 @@ The Backup Commissioners will have all site powers the league commissioner has s
 <br>
 
 ### Backup Commissioner Appointment ###
-If the backup commissioner is replaced, the Commissioner can nominate a new backup Commissioners who will then require a majority vote by the rest of the league to be appointed.
+If the backup commissioner is replaced, the Commissioner can nominate a new backup commissioner who will then require a majority vote by the rest of the league to be appointed.
 <br>
 
 ### Dispute Arbitration ###
