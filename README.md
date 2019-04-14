@@ -127,7 +127,7 @@ The winner of a championship will be referred to as the Emperor for the entire n
 
 ### Trades ###
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
-- Any trades involving draft picks must be reported to the commissioner immediately.
+- Any trades involving draft picks must be reported to the commissioner immediately to verify that the draft picks are available for trade.
 - During the offseason trading is still allowed. Offseason begins immediately following the championship week.
 - Trade deadline is one week before the playoffs begin (Sunday @ 12:00 CT).
 - Draft picks up to 2 years in the future are tradable.
