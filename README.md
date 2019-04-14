@@ -44,8 +44,8 @@ __Dan Wanous__
 
 ### Commissioner Site Powers ###
 The commissioner has the ability to (in appropriate situations) edit lineups (either current or past), add/drop players, push/undo trades, and edit game scores. Additionally the commissioner can pause/resume the draft and set/remove draft picks for teams.
-
 <br>
+
 ### Backup Commissioner Site Powers ###
 The Backup Commissioners will have all site powers the league commissioner has so that in the event the commissioner is unavailable the backup commissioners can attend to any urgent needs from league members.
 <br>
