@@ -8,19 +8,19 @@
 - [League Dues](#section-ii---league-dues)
 - [Payout](#section-iii---payout)
 - [Empire League Rules](#Section-IV---Empire-League-Rules)
-- [Rosters](#section-iv---rosters)
-- [Free Agency & Trading](#section-v---free-agency--trading)
+- [Rosters](#section-v---rosters)
+- [Free Agency & Trading](#section-vi---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Startup Draft](#section-vi---startup-draft)
-- [Rookie Draft](#section-vii---rookie-draft)
-- [Divisions & Schedule](#section-viii---divisions--schedule)
+- [Startup Draft](#section-vii---startup-draft)
+- [Rookie Draft](#section-viii---rookie-draft)
+- [Divisions & Schedule](#section-ix---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-ix---playoffs)
+- [Playoffs](#section-x---playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-x---scoring)
+- [Scoring](#section-xi---scoring)
 <br>
 <br>
 
@@ -92,7 +92,7 @@ This is an Empire format dynasty league. This means that the league will disband
 The winner of a championship will be referred to as the Emperor for the entire next season. To prevent collusion with the Emperor (working together to split the empire pot), the Emperor will be limited in the type of trades they can make during the season (see trades section below).
 
 <br><br>
-## __Section IV - Rosters__ ##
+## __Section V - Rosters__ ##
 
 
    Position | Starters | Maximum
@@ -107,7 +107,7 @@ The winner of a championship will be referred to as the Emperor for the entire n
 
 <br><br>
 
-## __Section V - Free Agency & Trading__ ##
+## __Section VI - Free Agency & Trading__ ##
 
 ### Free Agency ###
 
@@ -131,12 +131,12 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 
 <br><br>
 
-## __Section VI - Startup Draft__ ##
+## __Section VII - Startup Draft__ ##
 - Aucton format ($400 budget).
 
 <br><br>
 
-## __Section VII - Rookie Draft__ ##
+## __Section VIII - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
@@ -156,7 +156,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section VIII - Divisions & Schedule__ ##
+## __Section IX - Divisions & Schedule__ ##
 
 ### Divisions ###
 
@@ -173,7 +173,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section IX - Playoffs__ ##
+## __Section X - Playoffs__ ##
 
 ### Championship Bracket ###
 - Playoff seeding is determined by regular season record with a tiebreaker being total points scored throughout the regular season.
@@ -187,7 +187,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section X - Scoring__ ##
+## __Section XI - Scoring__ ##
 
 <table>
     <tr>
