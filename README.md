@@ -176,7 +176,9 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 ## __Section X - Playoffs__ ##
 
 ### Championship Bracket ###
+- Playoffs are 3 rounds from week 14 to 16
 - Playoff seeding is determined by regular season record with a tiebreaker being total points scored throughout the regular season.
+- Top 6 teams make the playoffs
 - The top two seeds will recieve a first round bye. 
 - The first round will be #3 seed vs #6 seed and the #4 seed vs #5 seed.
 - The second round will be the #1 seed vs the worst remaning seed and the #2 seed vs the best remaining seed.
@@ -193,7 +195,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
     <tr>
     <td>Passing</td>
     <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>6<br>2</td>
+    <td>.04<br>-2<br>4<br>2</td>
     </tr>
      <tr>
         <td>Rushing</td>
@@ -203,17 +205,12 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
       <tr>
         <td>Receiving</td>
         <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>1</td>
+        <td>0.1<br>6<br>2<br>0.5</td>
       </tr>
       <tr>
         <td>Miscellaneous </td>
         <td>Total Fumbles Lost</td>
         <td>-2</td>
-      </tr>
-      <tr>
-        <td>Kicking</td>
-        <td>Each Extra Point Made (PAT)<br>Each Field Goal Made (0-39 Yard) (FG0)<br>Each Field Goal Made (40-49 Yard) (FG40)<br>Each Field Goal Made (50+)(FG50)<br>Field Goal Missed (FGM)</td>
-        <td>1<br>3<br>4<br>5<br>-1</td>
       </tr>
     </table>
 
