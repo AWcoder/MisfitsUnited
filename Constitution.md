@@ -60,6 +60,8 @@ The commissioner is the final authority on all league matters, excluding dispute
 
 ### Rule Changes ###
 In order to change an existing rule, add a new rule, or change a scoring setting, a vote must be called and receive a majority (in a tie the commissioner has the tiebreaking vote), the commissioner has the option to veto a rule change in which case it can be voted on again and receive a at least 2/3 majority to pass without commissioner consent.
+
+In order to change the number of positions in the starting lineup, 100% of owners must vote in favor for the rule to go in effect for the current season. If 2/3 majority are in favor, the change will go into effect the following season. Changes to the starting lineup are critical to the construction and strategy of team building, thus the reason for the increased voting requirement when compared to other rule changes.
 <br>
 ### Collusion ###
 **Collusion will not be tolerated. A trade will be vetoed if there is evident collusion and the guilty teams may penalized draft picks or be removed from the league and forfeit any dues paid. Punishment will be determined by the commissioner and require majority vote by non-involved parties to be enforced.**
@@ -89,11 +91,11 @@ If a team does not pay their dues by the designated date they are not eligible t
 
 Additionally, $200 (50%) will be rolled over each year into a side pot ("The Empire Pot") that will be awarded to the first team to win back to back championships.
 
-Payouts will occur using leaguesafe.com
+Payouts will occur using leaguesafe.com. The commissioner will allocate payout amounts, and approval of the allocation is required by majority of owners before leaguesafe will authorize payment.
 
 <br><br>
 ## __Section IV - Empire League Rules__ ##
-This is an Empire format dynasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
+This is an Empire format dynasty league. This means that the league will disband when one owner wins back to back championships and collects the Empire Pot. The league may be continued with each owner keeping their existing rosters and future draft picks if 100% of owners agree to keep them and continue. Any single owner has the right to require rosters be reset with a new re-draft in order for the league to continue. If the league is continued (either keeping rosters or by re-draft) a new empire pot will be formed.
 
 The winner of a championship will be referred to as the Emperor for the entire next season. To prevent collusion with the Emperor (working together to split the empire pot), the Emperor will be limited in the type of trades they can make during the season (see trades section below).
 
@@ -108,10 +110,11 @@ The winner of a championship will be referred to as the Emperor for the entire n
    WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 2 | No Limit
-   BE | 16 | N/A
+   BE | 21 | N/A
    IR | 2 | N/A
 
 <br><br>
+Note: Starting in the 2020 season there will be 3 starting Flex spots. This was voted on and approved by 2/3 of the leage during the 2019 offseason.
 
 ## __Section VI - Free Agency & Trading__ ##
 
@@ -133,7 +136,7 @@ The winner of a championship will be referred to as the Emperor for the entire n
 - Draft picks up to 2 years in the future are tradable.
 - Future season FAAB cannot be traded 
 - "Rental" trades are not allowed. Players cannot be traded on a temporary basis before being returned to the original owner.
-- Conditional trades are allowed (trade happening based on some future condition), however the future condition cannot be a decision made by another owner or the future league standings. Conditions must be based on something that is out of an owner or the league's control. For example: a player injury, suspension, etc. All trades are final as soon as the conditions are set and agreed upon. An owner cannot agree to a trade where they are allowed to make a decision to reverse the trade for any reason, for example: if they get cold feet after the trade processes, their player isn't performing as well as expected, they're eliminated from playoff contention, etc. The conditions of the trade cannot be based on the performance of a team, for example, trade X will happen if my team wins the league or makes the playoffs, etc.
+- Conditional trades are allowed (trade happening based on some future condition), however the future condition cannot be a decision made by another owner or the future league standings. Conditions must be based on something that is out of an owner or the league's control. For example: a player injury, suspension, etc. All trades are final as soon as the conditions are set and agreed upon. An owner cannot agree to a trade where they are allowed to make a decision to reverse the trade for any reason, for example: if they get cold feet after the trade processes, they're eliminated from playoff contention, etc. The conditions of the trade cannot be based on the performance of a team, for example, trade X will happen if my team wins the league or makes the playoffs, etc.
 - The Emperor (winner of the previous season) is allowed to make trades for future season draft picks in exchange for rostered players, current season draft picks, and FAAB. The Emperor is not allowed to aquire any players or FAAB via trade. 
 Example for clarification: If the Emperor wins the championship in the 2018 season, they are not allowed to aquire any players, or 2019 FAAB via trade during the 2019 season. The 2018 season ends and the 2019 season begins the moment the Emperor wins the 2018 championship. 
 - The Emperor can trade for a player only if the terms of the trade are that he receives that player at the start of a future season (so that the player cannot help them win in the current season).
@@ -164,6 +167,10 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 - The rookie draft will take place following the completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
+- IR spots from the previous season must be cleared 1 week prior to the start of the rookie draft. Only players eligible for IR during the next season are allowed to stay on IR (typically would be due to an offseason injury).
+- Free agency is locked during the draft
+- After the draft is complete, trading will be locked until the commissioner process all roster moves made during the draft.
+- Only NFL rookies are eligible to be picked in the Rookie Draft. Non-rookies must be aquired via free agency.
 - Draft format is pending league discussion in 2019 offseason.
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
