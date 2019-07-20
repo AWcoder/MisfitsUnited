@@ -29,9 +29,6 @@
 
 ### League Commissioner ###
 __Austin Woetzel__
-> (763) 843-3237
-
-> awwoetzel@gmail.com
 
 <br>
 
