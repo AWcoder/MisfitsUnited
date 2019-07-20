@@ -21,6 +21,7 @@
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-xi---scoring)
+- [Offseason](#Section XII - Offseason)
 <br>
 <br>
 
@@ -179,7 +180,7 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 - Free agency is locked during the draft
 - After the draft is complete, trading will be locked until the commissioner process all roster moves made during the draft.
 - Only NFL rookies are eligible to be picked in the Rookie Draft. Non-rookies must be aquired via free agency.
-- Draft format is pending league discussion in 2019 offseason.
+
 
 __Any undrafted rookie will be treated as a common FA. If they are unavailable in the database you must message the commissioner to claim them and leave a spot open on your roster once they confirm your request. If no spot is open when the player becomes available then there will be no priority given to the team that claimed them__
 
@@ -242,3 +243,7 @@ There is no consolation bracket and no incentive for winning or losing games onc
       </tr>
     </table>
 
+<br><br>
+
+## __Section XII - Offseason__ ##
+- The league will be closed immmediately following the championship game. No roster moves will be allowed once the league is closed. The league will be reopned once all rule change discussions and votes have been completed for the next season.
