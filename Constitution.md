@@ -132,7 +132,8 @@ Note: Starting in the 2020 season there will be 3 starting Flex spots. This was 
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
 - Any trades involving draft picks must be reported to the commissioner immediately to verify that the draft picks are available for trade.
 - During the offseason trading is still allowed. Offseason begins immediately following the championship week.
-- Trade deadline is one week before the playoffs begin (Sunday @ 12:00 CT).
+- Trade deadline is two weeks before the playoffs begin. Playoffs are in week 14 so all trades must be complete before the first NFL game is played in week 12. NOTE: ESPN only allows certain dates and times as the trade deadline, so this date may end up being 1 day before the first NFL game is played in week 12. 
+- No trades of any type are allowed after the trade deadline.
 - Draft picks up to 2 years in the future are tradable.
 - Future season FAAB cannot be traded 
 - "Rental" trades are not allowed. Players cannot be traded on a temporary basis before being returned to the original owner.
