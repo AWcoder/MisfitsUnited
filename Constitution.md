@@ -115,6 +115,9 @@ The winner of a championship will be referred to as the Emperor for the entire n
 
 NOTE: The Taxi Squad spots will not be added until the 2020 rookie draft is complete. The Bench spots will be reduced from 20 to 18 to counterbalance the addition of the taxi squad at the conclusion of the rookie draft.
 
+2021 and 2022 rules will be changing the taxi and bench roster spots. See taxi squad rules below for more information. 
+
+
 <br><br>
 ## __Section VI - Taxi Squad__ ##
 Each owner has a taxi squad where they may store developmental players to help them in future seasons.
@@ -129,11 +132,11 @@ Each owner has a taxi squad where they may store developmental players to help t
 - Taxi squad players can be traded.
 
 
-Active Roster Size
+### Acitve Roster Size ###
 
 Active roster size will be reduced from 30 to 25* to counterbalance the increase in taxi squad roster spots (*number will be higher in the first 2 years, see "Implementation" below)
 
-Taxi Squad Implementation
+### Taxi Squad Implementation ###
 
 Because this change increases the value of the later round draft picks and would force cuts in the short term, we would have to implement this in a smart way so that it does not give an advantage to any team that is already structured for this change. We would phase in the rule change over the next 3 years.
 
