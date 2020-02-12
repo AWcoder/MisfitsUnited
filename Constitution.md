@@ -141,16 +141,16 @@ Active roster size will be reduced from 30 to 25* to counterbalance the increase
 Because this change increases the value of the later round draft picks and would force cuts in the short term, we would have to implement this in a smart way so that it does not give an advantage to any team that is already structured for this change. We would phase in the rule change over the next 3 years.
 
 2020 rules that are different than the final state outlined above:
--2 players max on the taxi squad
--Reduction of Active Roster Spots to 28       
+- 2 players max on the taxi squad
+- Reduction of Active Roster Spots to 28 (18 bench spots)      
 
 2021 rules
--4 players max on the taxi squad
--Reduction of Active Roster Spots to 27
+- 4 players max on the taxi squad
+- Reduction of Active Roster Spots to 27 (17 bench spots)
 
 2022 rules
-7 players max on the taxi squad
-Reduction of Active Roster Spots to 25
+- 7 players max on the taxi squad
+- Reduction of Active Roster Spots to 25 (15 bench spots)
 
 ## __Section VII - Free Agency & Trading__ ##
 
