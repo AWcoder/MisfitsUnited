@@ -119,21 +119,14 @@ NOTE: The Taxi Squad spots will not be added until the 2020 rookie draft is comp
 ## __Section VI - Taxi Squad__ ##
 Each owner has a taxi squad where they may store developmental players to help them in future seasons.
 
--All rookies are eligible for placement on the taxi squad.
-
--Players may be left on the taxi squad for their 1st and 2nd years in the NFL
-
--2nd year players are not eligible to be placed on the taxi squad, but they can remain on the taxi squad if there were placed there during their rookie year.
-
--A player may be moved from the taxi squad to the active roster at any time.
-
--Rookies may be moved back and forth between taxi and active roster during the offseason and preseason. Final decision on taxi squad rookies are made immediately before the start of the regular season.
-
--Once a player has been moved off the taxi squad, they may never return back to the taxi squad (with the exception of rookies during the offseason and preseason).
-
--There is a limit of 7* players on the taxi squad. (*number will be less in the first 2 years, see "Implementation" below)
-
--Taxi squad players can be traded.
+- All rookies are eligible for placement on the taxi squad.
+- Players may be left on the taxi squad for their 1st and 2nd years in the NFL
+- 2nd year players are not eligible to be placed on the taxi squad, but they can remain on the taxi squad if there were placed there during their rookie year.
+- A player may be moved from the taxi squad to the active roster at any time.
+- Rookies may be moved back and forth between taxi and active roster during the offseason and preseason. Final decision on taxi squad rookies are made immediately before the start of the regular season.
+- Once a player has been moved off the taxi squad, they may never return back to the taxi squad (with the exception of rookies during the offseason and preseason).
+- There is a limit of 7* players on the taxi squad. (*number will be less in the first 2 years, see "Implementation" below)
+- Taxi squad players can be traded.
 
 
 Active Roster Size
