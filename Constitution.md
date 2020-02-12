@@ -132,7 +132,7 @@ Each owner has a taxi squad where they may store developmental players to help t
 - Taxi squad players can be traded.
 
 
-### Acitve Roster Size ###
+### Active Roster Size ###
 
 Active roster size will be reduced from 30 to 25* to counterbalance the increase in taxi squad roster spots (*number will be higher in the first 2 years, see "Implementation" below)
 
