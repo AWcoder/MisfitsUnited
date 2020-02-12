@@ -113,8 +113,10 @@ The winner of a championship will be referred to as the Emperor for the entire n
    IR | 2 | N/A
    TAXI | 2 | N/A
 
+NOTE: The Taxi Squad spots will not be added until the 2020 rookie draft is complete. The Bench spots will be reduced from 20 to 18 to counterbalance the addition of the taxi squad at the conclusion of the rookie draft.
+
 <br><br>
-## __Section VI - Taxi Squd__ ##
+## __Section VI - Taxi Squad__ ##
 Each owner has a taxi squad where they may store developmental players to help them in future seasons.
 
 -All rookies are eligible for placement on the taxi squad.
