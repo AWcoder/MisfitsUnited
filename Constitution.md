@@ -9,19 +9,20 @@
 - [Payout](#section-iii---payout)
 - [Empire League Rules](#Section-IV---Empire-League-Rules)
 - [Rosters](#section-v---rosters)
-- [Free Agency & Trading](#section-vi---free-agency--trading)
+- [Taxi Squad](#section-vi---taxi-squad)
+- [Free Agency & Trading](#section-vii---free-agency--trading)
   - [Free Agency](#free-agency)
   - [Trading](#trades)
-- [Startup Draft](#section-vii---startup-draft)
-- [Rookie Draft](#section-viii---rookie-draft)
-- [Divisions & Schedule](#section-ix---divisions--schedule)
+- [Startup Draft](#section-viii---startup-draft)
+- [Rookie Draft](#section-ix---rookie-draft)
+- [Divisions & Schedule](#section-x---divisions--schedule)
    - [Divisions](#divisions)
    - [Schedule](#regular-season-schedule)
-- [Playoffs](#section-x---playoffs)
+- [Playoffs](#section-xi---playoffs)
    - [Championship](#championship-bracket)
    - [Consolation](#consolation-bracket)
-- [Scoring](#section-xi---scoring)
-- [Offseason](#section-xii---Offseason)
+- [Scoring](#section-xii---scoring)
+- [Offseason](#section-xiii---Offseason)
 <br>
 <br>
 
@@ -107,14 +108,46 @@ The winner of a championship will be referred to as the Emperor for the entire n
    RB | 2 | No Limit
    WR | 2 | No Limit
    TE | 1 | No Limit
-   FLEX (RB/WR/TE) | 2 | No Limit
-   BE | 21 | N/A
+   FLEX (RB/WR/TE) | 3 | No Limit
+   BE | 18 | N/A
    IR | 2 | N/A
+   TAXI | 2 | N/A
 
 <br><br>
-Note: Starting in the 2020 season there will be 3 starting Flex spots. This was voted on and approved by 2/3 of the leage during the 2019 offseason.
+## __Section VI - Taxi Squd__ ##
+Each owner has a taxi squad where they may store developmental players to help them in future seasons.
 
-## __Section VI - Free Agency & Trading__ ##
+-All rookies are eligible for placement on the taxi squad.
+-Players may be left on the taxi squad for their 1st and 2nd years in the NFL
+-2nd year players are not eligible to be placed on the taxi squad, but they can remain on the taxi squad if there were placed there during their rookie year.
+-A player may be moved from the taxi squad to the active roster at any time.
+-Rookies may be moved back and forth between taxi and active roster during the offseason and preseason. Final decision on taxi squad rookies are made immediately before the start of the regular season.
+-Once a player has been moved off the taxi squad, they may never return back to the taxi squad (with the exception of rookies during the offseason and preseason).
+-There is a limit of 7* players on the taxi squad. (*number will be less in the first 2 years, see "Implementation" below)
+-Taxi squad players can be traded.
+
+
+Active Roster Size
+
+Active roster size will be reduced from 30 to 25* to counterbalance the increase in taxi squad roster spots (*number will be higher in the first 2 years, see "Implementation" below)
+
+Taxi Squad Implementation
+
+Because this change increases the value of the later round draft picks and would force cuts in the short term, we would have to implement this in a smart way so that it does not give an advantage to any team that is already structured for this change. We would phase in the rule change over the next 3 years.
+
+2020 rules that are different than the final state outlined above:
+-2 players max on the taxi squad
+-Reduction of Active Roster Spots to 28       
+
+2021 rules
+-4 players max on the taxi squad
+-Reduction of Active Roster Spots to 27
+
+2022 rules
+7 players max on the taxi squad
+Reduction of Active Roster Spots to 25
+
+## __Section VII - Free Agency & Trading__ ##
 
 ### Free Agency ###
 
@@ -130,7 +163,7 @@ Note: Starting in the 2020 season there will be 3 starting Flex spots. This was 
 - Trades will be processed right away, if collusion is suspected the matter will be put to a vote.
 - Any trades involving draft picks must be reported to the commissioner immediately to verify that the draft picks are available for trade.
 - During the offseason trading is still allowed. Offseason begins immediately following the championship week.
-- Trade deadline is two weeks before the playoffs begin. Playoffs are in week 14 so all trades must be complete before the first NFL game is played in week 12. NOTE: ESPN only allows certain dates and times as the trade deadline, so this date may end up being 1 day before the first NFL game is played in week 12. 
+- Trade deadline is two weeks before the playoffs begin. 
 - No trades of any type are allowed after the trade deadline.
 - Draft picks up to 2 years in the future are tradable.
 - Future season FAAB cannot be traded 
@@ -152,12 +185,12 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 
 <br><br>
 
-## __Section VII - Startup Draft__ ##
+## __Section VIII - Startup Draft__ ##
 - Aucton format ($400 budget).
 
 <br><br>
 
-## __Section VIII - Rookie Draft__ ##
+## __Section IX - Rookie Draft__ ##
 
 ### Rookie Draft Order ###
 - The draft order for the rookie draft will be determined based on both regular and post-season results
@@ -173,9 +206,7 @@ Example for clarification: If the Emperor wins the championship in the 2018 seas
 - The rookie draft will take place following the completion of the NFL draft.
 - The draft will follow a linear format just like the NFL draft (1.01 has 2.01, 3.01, 4.01 etc.)
 - Trading draft picks is allowed during the rookie draft
-- IR spots from the previous season must be cleared 1 week prior to the start of the rookie draft. Only players eligible for IR during the next season are allowed to stay on IR (typically would be due to an offseason injury).
 - Free agency is locked during the draft
-- After the draft is complete, trading will be locked until the commissioner process all roster moves made during the draft.
 - Only NFL rookies are eligible to be picked in the Rookie Draft. Non-rookies must be aquired via free agency.
 
 
@@ -183,12 +214,14 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section IX - Divisions & Schedule__ ##
+## __Section X - Divisions & Schedule__ ##
 
 ### Divisions ###
 
-- There will be two divisions that teams will be randomly assigned to upon joining the league.
+- Divisions determine which teams you will play 2 times during the regular season
+- Divisions are reshuffled each season based on the previous season's Potential Points ("Max PF" on the Sleeper App) rankings. Division 1 will have the 1,3,5,7,and 9th ranked teams. Division 2 will have 2,4,6,8, and 10th ranked teams
 - Divisions will not have any bearing on playoffs and winning a division only entitles the winner to bragging rights
+
 
 
 ### Regular Season Schedule ###
@@ -199,7 +232,7 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 
 <br><br>
 
-## __Section X - Playoffs__ ##
+## __Section XI - Playoffs__ ##
 
 ### Championship Bracket ###
 - Playoffs are 3 rounds from week 14 to 16
@@ -208,14 +241,14 @@ __Any undrafted rookie will be treated as a common FA. If they are unavailable i
 - The top two seeds will recieve a first round bye. 
 - The first round will be #3 seed vs #6 seed and the #4 seed vs #5 seed.
 - The second round will be the #1 seed vs the worst remaning seed and the #2 seed vs the best remaining seed.
-- The top seed in each playoff matchup will recieve 2 additional points.
+- The better seed in each playoff matchup will recieve 2 additional points with the exception of the championship game.
 
 ### Consolation Bracket ###
 There is no consolation bracket and no incentive for winning or losing games once eliminated from championship contention. Any losses once eliminated from championship contention have no impact on draft position in the next season (see Section VIII Rookie Draft).
 
 <br><br>
 
-## __Section XI - Scoring__ ##
+## __Section XII - Scoring__ ##
 
 <table>
     <tr>
@@ -242,5 +275,5 @@ There is no consolation bracket and no incentive for winning or losing games onc
 
 <br><br>
 
-## __Section XII - Offseason__ ##
+## __Section XIII - Offseason__ ##
 - The league will be closed immmediately following the championship game. No roster moves will be allowed once the league is closed. The league will be reopned once all rule change discussions and votes have been completed for the next season.
