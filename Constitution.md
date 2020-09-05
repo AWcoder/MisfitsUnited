@@ -287,10 +287,10 @@ There is no consolation bracket and no incentive for winning or losing games onc
 
 ## __Section XIV - COVID Rules__ ##
 ### Determining what is a "Valid" fantasy week ###
-## Regular season rules ##
-We will consider a fantasy week to be valid if a minimum of 50% of scheduled games are played. If less than 50% are played we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times so that the season would extend beyone week 17, then we will treat the results as a shortened season (see rules below). 
+#### Regular Season Rules ####
+We will consider a fantasy week to be valid if a minimum of 50% of scheduled games are played. If less than 50% are played we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times so that the season would extend beyone week 17, then we will treat the results as a shortened season (see shortened season rules below). 
 
-## Fantasy Playoff rules ##
+#### Fantasy Playoff Rules ####
 We will consider a fantasy playoff week to be valid if 2 or less games are cancelled. If the week is invalid, we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times so that our season would extend beyond NFL week 17, then we will treat the results as a shortened season (see rules below for when fantasy playoffs are cut short). 
 
 The NFL Playoffs will not be used for fantasy purposes, even if the regular season is shortened. Weeks 16 and 17 may be used if up to two weeks are considered “invalid” for our fantasy league. If the NFL adds extra regular season weeks to make up cancelled games, these will not be used for fantasy purposes.
