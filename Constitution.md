@@ -23,6 +23,7 @@
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-xii---scoring)
 - [Offseason](#section-xiii---Offseason)
+- [COVID Rules](#section-ix---Covid Rules)
 <br>
 <br>
 
@@ -282,3 +283,101 @@ There is no consolation bracket and no incentive for winning or losing games onc
 
 ## __Section XIII - Offseason__ ##
 - The league will be closed immmediately following the championship game. No roster moves will be allowed once the league is closed. The league will be reopned once all rule change discussions and votes have been completed for the next season.
+
+
+## __Section IX - COVID Rules__ ##
+We will consider our fantasy week to be valid if a minimum of 50% of scheduled games are played. If less than 50% are played we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times and the NFL does not add any weeks to the end of the regular season, then we will treat the results as a shortened season (see rules below). 
+
+The NFL Playoffs will not be used for fantasy purposes, even if the regular season is shortened. Weeks 16 and 17 may be used if up to two weeks are considered “invalid” for our fantasy league.
+
+The trade deadline is always 2 weeks before the start of the fantasy playoffs. If the season is shifted back, so is the trade deadline. 
+
+Delayed Start
+Shift our schedule to match the NFL’s. Week 1 starts whenever the NFL week 1 starts
+
+Interrupted Season (COVID break)
+Shift our schedule to match the NFL. For example: If the season is delayed weeks 5-9, our week 5 will be played whenever the NFL starts their week 5.
+
+Full fantasy regular season (13 games), fantasy playoffs cut short: 
+
+If a full fantasy regular season is played (13 weeks), but the fantasy playoffs are cut short (weeks 14-16), we will still pay 1st and 2nd place out the yearly pot ($200) and crown the champion as Emperor so they have the opportunity to take home the empire pot in 2021. To determine 1st and 2nd place, we will rank by regular season record with a tiebreaker of total points scored, but only for the teams remaining in championship contention. Any teams that made the playoffs but were eliminated in the early rounds  (prior to season cancellation)  will not be eligible.
+
+2021 rookie draft order is determined by the standard method for non-playoff teams and playoff teams that were eliminated from contention prior to season cancellation. For teams that had not been eliminated from the playoffs prior to season cancellation, the draft order will be the reverse order of regular season standings with a tiebreaker of total points scored.
+
+Less than 13 games, but at least 8 games played
+
+In order to mitigate any scheduling advantages. We will change to an “all-play” format for the entire season. In “all-play” everyone plays everyone head-to-head each week and you combine your total record throughout all weeks. For example: if your team finished 3rd in points in week 1, your record would be 7-2. If you finish 5th in points in week 2, your record is 5-4 in week 2 for a combined overall record of 12-6. At the end of the season the top two teams are determined by overall record. Tie breaker is total points scored.
+
+In this scenario, all-play record is re-calculated for all previous weeks already played. The standard head-to-head records that were tracked up to the point of the season being cancelled are no longer used for any reason. 
+
+Payouts remain the same and the champion is crowned Emperor.
+
+The 2021 rookie draft order is determined by reverse order of “all-play” standings.
+
+Less than 8 games played, more than 4 games played
+
+No payouts. All money rolls into 2021.
+
+No League dues in 2021 
+
+ 2021 draft order will be determined with an NBA style weighted lottery based on 2019 and 2020 results. 2019 ping pong balls determined by the final 2019 standings.  2020 ping pong balls are determined by the partial regular season “all-play” record with a tie breaker of total points scored.
+
+Ping pong balls are combined together (200 total) for the lottery. 
+
+<table>
+    <tr>
+    <td>Passing</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
+    <td>.04<br>-2<br>4<br>2</td>
+    </tr>
+     <tr>
+        <td>Rushing</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
+        <td>0.1<br>6<br>2</td>
+      </tr>
+      <tr>
+        <td>Receiving</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
+        <td>0.1<br>6<br>2<br>0.5</td>
+      </tr>
+      <tr>
+        <td>Miscellaneous </td>
+        <td>Total Fumbles Lost<br>Kick/Punt Return TD</td>
+        <td>-2<br>6</td>
+      </tr>
+    </table>
+    
+    
+Less than 5 games played
+
+No payouts. All money rolls into 2021.
+
+No League dues in 2021 
+
+ 2021 draft order will be determined with an NBA style weighted lottery based on 2018 and 2019 results. 2018 and 2019 ping pong balls are determined by the final standings from each season. 
+Ping pong balls are combined together (200 total) for the lottery. 
+<table>
+    <tr>
+    <td>Passing</td>
+    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
+    <td>.04<br>-2<br>4<br>2</td>
+    </tr>
+     <tr>
+        <td>Rushing</td>
+        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
+        <td>0.1<br>6<br>2</td>
+      </tr>
+      <tr>
+        <td>Receiving</td>
+        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
+        <td>0.1<br>6<br>2<br>0.5</td>
+      </tr>
+      <tr>
+        <td>Miscellaneous </td>
+        <td>Total Fumbles Lost<br>Kick/Punt Return TD</td>
+        <td>-2<br>6</td>
+      </tr>
+    </table>
+    
+Commissioner Power
+The commissioner reserves the right to make additional rule changes in-season for any unforeseen circumstances due to COVID. Any change requires minimum 50% league approval to be allowed.
