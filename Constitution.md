@@ -395,8 +395,7 @@ Ping pong balls are combined together (200 total) for the lottery.
      <td>1</td>
        <td>1</td>   
       </tr>
-      
-    </table>
+ </table>
     
     
 ### Less than 5 games played ###
@@ -478,9 +477,8 @@ Ping pong balls are combined together (200 total) for the lottery.
        <td> --</td>
      <td>1</td>
        <td>1</td>   
-      </tr>
-      
-    </table>
+      </tr>      
+ </table>
     
 ### Commissioner Power ###
 The commissioner reserves the right to make additional rule changes in-season for any unforeseen circumstances due to COVID. Any change requires minimum 50% league approval to be allowed.
