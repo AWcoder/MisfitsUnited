@@ -292,7 +292,7 @@ The NFL Playoffs will not be used for fantasy purposes, even if the regular seas
 
 The trade deadline is always 2 weeks before the start of the fantasy playoffs. If the season is shifted back, so is the trade deadline. 
 
-### Delayed Start###
+### Delayed Start ###
 Shift our schedule to match the NFL’s. Week 1 starts whenever the NFL week 1 starts
 
 ### Interrupted Season (COVID break) ###
@@ -326,38 +326,6 @@ Ping pong balls are combined together (200 total) for the lottery.
 
 <table>
     <tr>
-    <td>Passing</td>
-    <td>Passing Yards (PY)<br>Interception Thrown (INT)<br>TD Pass (PTD)<br>2 Point Conversion (2PC)</td>
-    <td>.04<br>-2<br>4<br>2</td>
-    </tr>
-     <tr>
-        <td>Rushing</td>
-        <td>Rushing Yards (RY)<br>Rushing TD (RTD)<br>2 Point Conversion (2PR)</td>
-        <td>0.1<br>6<br>2</td>
-      </tr>
-      <tr>
-        <td>Receiving</td>
-        <td>Receiving Yards (REY)<br>Receiving TD (RETD)<br>2 Point Conversion (2PRE)<br>Each Reception (REC)</td>
-        <td>0.1<br>6<br>2<br>0.5</td>
-      </tr>
-      <tr>
-        <td>Miscellaneous </td>
-        <td>Total Fumbles Lost<br>Kick/Punt Return TD</td>
-        <td>-2<br>6</td>
-      </tr>
-    </table>
-    
-    
-### Less than 5 games played ###
-
-No payouts. All money rolls into 2021.
-
-No League dues in 2021 
-
- 2021 draft order will be determined with an NBA style weighted lottery based on 2018 and 2019 results. 2018 and 2019 ping pong balls are determined by the final standings from each season. 
-Ping pong balls are combined together (200 total) for the lottery. 
-<table>
-    <tr>
     <td>2019 Standings</td>
        <td>Ping Pong Balls</td>
        <td> --</td>
@@ -369,7 +337,91 @@ Ping pong balls are combined together (200 total) for the lottery.
        <td>34</td>
        <td> --</td>
      <td>10</td>
-       <td>34s</td>   
+       <td>34</td>   
+      </tr>
+        <tr>
+    <td>9</td>
+       <td>24</td>
+       <td> --</td>
+     <td>9</td>
+       <td>24</td>   
+      </tr>
+        <tr>
+    <td>8</td>
+       <td>15</td>
+       <td> --</td>
+     <td>8</td>
+       <td>15</td>   
+      </tr>
+        <tr>
+    <td>7</td>
+       <td>10</td>
+       <td> --</td>
+     <td>7</td>
+       <td>10</td>   
+      </tr>
+        <tr>
+    <td>6</td>
+       <td>6</td>
+       <td> --</td>
+     <td>6</td>
+       <td>6</td>   
+      </tr>
+        <tr>
+    <td>5</td>
+       <td>4</td>
+       <td> --</td>
+     <td>5</td>
+       <td>4</td>   
+      </tr>
+        <tr>
+    <td>4</td>
+       <td>3</td>
+       <td> --</td>
+     <td>4</td>
+       <td>3</td>   
+      </tr>
+        <tr>
+    <td>2</td>
+       <td>1</td>
+       <td> --</td>
+     <td>2</td>
+       <td>1</td>   
+      </tr>
+        <tr>
+    <td>1</td>
+       <td>1</td>
+       <td> --</td>
+     <td>1</td>
+       <td>1</td>   
+      </tr>
+      
+    </table>
+    
+    
+### Less than 5 games played ###
+
+No payouts. All money rolls into 2021.
+
+No League dues in 2021 
+
+ 2021 draft order will be determined with an NBA style weighted lottery based on 2018 and 2019 results. 2018 and 2019 ping pong balls are determined by the final standings from each season. 
+Ping pong balls are combined together (200 total) for the lottery. 
+
+<table>
+    <tr>
+    <td>2018 Standings</td>
+       <td>Ping Pong Balls</td>
+       <td> --</td>
+     <td>2019 Standings</td>
+       <td>Ping Pong Balls</td>      
+    </tr>
+     <tr>
+    <td>10</td>
+       <td>34</td>
+       <td> --</td>
+     <td>10</td>
+       <td>34</td>   
       </tr>
         <tr>
     <td>9</td>
