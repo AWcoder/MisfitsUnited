@@ -23,7 +23,6 @@
    - [Consolation](#consolation-bracket)
 - [Scoring](#section-xii---scoring)
 - [Offseason](#section-xiii---Offseason)
-- [COVID Rules](#section-xiv---COVID-Rules)
 <br>
 <br>
 
@@ -110,13 +109,11 @@ The winner of a championship will be referred to as the Emperor for the entire n
    WR | 2 | No Limit
    TE | 1 | No Limit
    FLEX (RB/WR/TE) | 3 | No Limit
-   BE | 18 | N/A
+   BE | 17 | N/A
    IR | 2 | N/A
-   TAXI | 2 | N/A
+   TAXI | 4 | N/A
 
-NOTE: The Taxi Squad spots will not be added until the 2020 rookie draft is complete. The Bench spots will be reduced from 20 to 18 to counterbalance the addition of the taxi squad at the conclusion of the rookie draft.
-
-2021 and 2022 rules will be changing the taxi and bench roster spots. See taxi squad rules below for more information. 
+2022 rules will be changing the taxi and bench roster spots. See taxi squad rules below for more information. 
 
 
 <br><br>
@@ -128,10 +125,10 @@ Each owner has a taxi squad where they may store developmental players to help t
 - 2nd year players are not eligible to be placed on the taxi squad, but they can remain on the taxi squad if there were placed there during their rookie year.
 - A player may be moved from the taxi squad to the active roster at any time.
 - Rookies may be moved back and forth between taxi and active roster during the offseason and preseason. Final decision on taxi squad rookies are made immediately before the start of the regular season.
-- Once a player has been moved off the taxi squad, they may never return back to the taxi squad (with the exception of rookies during the offseason and preseason).
+- Once a player has been moved off the taxi squad, they may never return back to the taxi squad (unless it's during the offseason or starting in 2022 after a trade of a rookie (see below)).
 - There is a limit of 7* players on the taxi squad. (*number will be less in the first 2 years, see "Implementation" below)
 - Taxi squad players can be traded.
-
+- Starting in 2022: Rookies you trade for are eligible for movement to the Taxi Squad mid-season. The commissioner must be contacted immediately after the trade to process the taxi squad roster move. 
 
 ### Active Roster Size ###
 
@@ -282,208 +279,4 @@ There is no consolation bracket and no incentive for winning or losing games onc
 <br><br>
 
 ## __Section XIII - Offseason__ ##
-- The league will be closed immmediately following the championship game. No roster moves will be allowed once the league is closed. The league will be reopned once all rule change discussions and votes have been completed for the next season.
-
-
-## __Section XIV - COVID Rules__ ##
-### Determining what is a "Valid" fantasy week ###
-#### Regular Season Rules ####
-We will consider a fantasy week to be valid if a minimum of 50% of scheduled games are played. If less than 50% are played we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times so that the season would extend beyond NFL week 17, then we will treat the results as a shortened season (see shortened season rules below). 
-
-#### Fantasy Playoff Rules ####
-We will consider a fantasy playoff week to be valid if 2 or less games are cancelled. If the week is invalid, we will skip the week and shift our schedule to the next NFL week (repeating all matchups that were in progress). If this happens multiple times so that our season would extend beyond NFL week 17, then we will treat the results as a shortened season (see rules below for when fantasy playoffs are cut short). 
-
-The NFL Playoffs will not be used for fantasy purposes, even if the regular season is shortened. Week 17 may be used if up one week is considered “invalid” for our fantasy league. If the NFL adds extra regular season weeks to make up cancelled games, these will not be used for fantasy purposes.
-
-The trade deadline is always 2 weeks before the start of the fantasy playoffs. If the season is shifted back, so is the trade deadline. 
-
-### Delayed Start ###
-Shift our schedule to match the NFL’s. Week 1 starts whenever the NFL week 1 starts
-
-### Interrupted Season (COVID break) ###
-Shift our schedule to match the NFL. For example: If the season is delayed weeks 5-9, our week 5 will be played whenever the NFL starts their week 5.
-
-### Full fantasy regular season (13 games), fantasy playoffs cut short: ###
-
-If a full fantasy regular season is played (13 weeks), but the fantasy playoffs are cut short (weeks 14-16), we will still pay 1st and 2nd place out the yearly pot ($200) and crown the champion as Emperor so they have the opportunity to take home the empire pot in 2021. To determine 1st and 2nd place, we will rank by regular season record with a tiebreaker of total points scored, but only for the teams remaining in championship contention. Any teams that made the playoffs but were eliminated in the early rounds  (prior to season cancellation)  will not be eligible.
-
-2021 rookie draft order is determined by the standard method for non-playoff teams and playoff teams that were eliminated from contention prior to season cancellation. For teams that had not been eliminated from the playoffs prior to season cancellation, the draft order will be the reverse order of regular season standings with a tiebreaker of total points scored.
-
-### Less than 13 games, but at least 8 games played ###
-
-In order to mitigate any scheduling advantages. We will change to an “all-play” format for the entire season. In “all-play” everyone plays everyone head-to-head each week and you combine your total record throughout all weeks. For example: if your team finished 3rd in points in week 1, your record would be 7-2. If you finish 5th in points in week 2, your record is 5-4 in week 2 for a combined overall record of 12-6. At the end of the season the top two teams are determined by overall record. Tie breaker is total points scored.
-
-In this scenario, all-play record is re-calculated for all previous weeks already played. The standard head-to-head records that were tracked up to the point of the season being cancelled are no longer used for any reason. 
-
-Payouts remain the same and the champion is crowned Emperor.
-
-The 2021 rookie draft order is determined by reverse order of “all-play” standings.
-
-### Less than 8 games played, more than 4 games played ###
-
-No payouts. All money rolls into 2021.
-
-No League dues in 2021 
-
- 2021 draft order will be determined with an NBA style weighted lottery based on 2019 and 2020 results. 2019 ping pong balls determined by the final 2019 standings.  2020 ping pong balls are determined by the partial regular season “all-play” record with a tie breaker of total points scored.
-
-Ping pong balls are combined together (200 total) for the lottery. 
-
-<table>
-    <tr>
-    <td>2019 Standings</td>
-       <td>Ping Pong Balls</td>
-       <td> --</td>
-     <td>2020 Standings</td>
-       <td>Ping Pong Balls</td>      
-    </tr>
-     <tr>
-    <td>10</td>
-       <td>34</td>
-       <td> --</td>
-     <td>10</td>
-       <td>34</td>   
-      </tr>
-        <tr>
-    <td>9</td>
-       <td>24</td>
-       <td> --</td>
-     <td>9</td>
-       <td>24</td>   
-      </tr>
-        <tr>
-    <td>8</td>
-       <td>15</td>
-       <td> --</td>
-     <td>8</td>
-       <td>15</td>   
-      </tr>
-        <tr>
-    <td>7</td>
-       <td>10</td>
-       <td> --</td>
-     <td>7</td>
-       <td>10</td>   
-      </tr>
-        <tr>
-    <td>6</td>
-       <td>6</td>
-       <td> --</td>
-     <td>6</td>
-       <td>6</td>   
-      </tr>
-        <tr>
-    <td>5</td>
-       <td>4</td>
-       <td> --</td>
-     <td>5</td>
-       <td>4</td>   
-      </tr>
-        <tr>
-    <td>4</td>
-       <td>3</td>
-       <td> --</td>
-     <td>4</td>
-       <td>3</td>   
-      </tr>
-        <tr>
-    <td>2</td>
-       <td>1</td>
-       <td> --</td>
-     <td>2</td>
-       <td>1</td>   
-      </tr>
-        <tr>
-    <td>1</td>
-       <td>1</td>
-       <td> --</td>
-     <td>1</td>
-       <td>1</td>   
-      </tr>
- </table>
-    
-    
-### Less than 5 games played ###
-
-No payouts. All money rolls into 2021.
-
-No League dues in 2021 
-
- 2021 draft order will be determined with an NBA style weighted lottery based on 2018 and 2019 results. 2018 and 2019 ping pong balls are determined by the final standings from each season. 
-Ping pong balls are combined together (200 total) for the lottery. 
-
-<table>
-    <tr>
-    <td>2018 Standings</td>
-       <td>Ping Pong Balls</td>
-       <td> --</td>
-     <td>2019 Standings</td>
-       <td>Ping Pong Balls</td>      
-    </tr>
-     <tr>
-    <td>10</td>
-       <td>34</td>
-       <td> --</td>
-     <td>10</td>
-       <td>34</td>   
-      </tr>
-        <tr>
-    <td>9</td>
-       <td>24</td>
-       <td> --</td>
-     <td>9</td>
-       <td>24</td>   
-      </tr>
-        <tr>
-    <td>8</td>
-       <td>15</td>
-       <td> --</td>
-     <td>8</td>
-       <td>15</td>   
-      </tr>
-        <tr>
-    <td>7</td>
-       <td>10</td>
-       <td> --</td>
-     <td>7</td>
-       <td>10</td>   
-      </tr>
-        <tr>
-    <td>6</td>
-       <td>6</td>
-       <td> --</td>
-     <td>6</td>
-       <td>6</td>   
-      </tr>
-        <tr>
-    <td>5</td>
-       <td>4</td>
-       <td> --</td>
-     <td>5</td>
-       <td>4</td>   
-      </tr>
-        <tr>
-    <td>4</td>
-       <td>3</td>
-       <td> --</td>
-     <td>4</td>
-       <td>3</td>   
-      </tr>
-        <tr>
-    <td>2</td>
-       <td>1</td>
-       <td> --</td>
-     <td>2</td>
-       <td>1</td>   
-      </tr>
-        <tr>
-    <td>1</td>
-       <td>1</td>
-       <td> --</td>
-     <td>1</td>
-       <td>1</td>   
-      </tr>      
- </table>
-    
-### Commissioner Power ###
-The commissioner reserves the right to make additional rule changes in-season for any unforeseen circumstances due to COVID. Any change requires minimum 50% league approval to be allowed.
+- The league will be closed immmediately following the championship game. No roster moves will be allowed once the league is closed. Any free agency waiver bids added before the end of the championship game will not be processed. The league will be reopened once all rule change discussions and votes have been completed for the next season.
